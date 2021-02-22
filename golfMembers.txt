@@ -1,0 +1,10 @@
+Angela,Rich,Adult,Twinkle3$
+Siraj,Adkins,Junior,Password123%
+Stefano,Love,Senior,Qwerty7#
+Cameron,Wilder,Junior,Wildtime3$
+Griff,Sutherland,Adult,Geordieman12%
+Amaan,Sosa,Senior,Mollymoo5#
+Isaak,Schroeder,Junior,Christmas98#
+Nana,Galloway,Junior,TheGrinch17$
+Lila,Blanchard,Adult,Tigger27$
+Eren,Acosta,Adult,Jamjar1992#
